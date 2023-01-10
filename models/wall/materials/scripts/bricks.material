@@ -1,0 +1,14 @@
+material vrc/bricks
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture bricks.jpg
+				scale 0.2 0.2
+			}
+		}
+	}
+}
